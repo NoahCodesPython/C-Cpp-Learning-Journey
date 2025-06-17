@@ -1,0 +1,36 @@
+Day 24: Generic Programming with Templates - Output Documentation
+================================================
+
+## Expected Program Behavior
+[Describe what your program should do]
+
+## Test Run 1: Basic Functionality
+**Input**: [Sample input]
+**Expected Output**: 
+[What you expect to see]
+
+**Actual Output**:
+[Paste actual output here after implementation]
+
+**Status**: [ ] ✅ Pass [ ] ❌ Fail
+
+## Test Run 2: Edge Cases
+**Input**: [Edge case input]
+**Expected Output**:
+[Expected behavior]
+
+**Actual Output**:
+[Actual result]
+
+**Status**: [ ] ✅ Pass [ ] ❌ Fail
+
+## Compilation Commands
+- **C**: `gcc main.c -o day24`
+- **C++**: `g++ main.cpp -o day24`
+
+## Performance Notes
+- **Execution Time**: [If measured]
+- **Memory Usage**: [If applicable]
+
+---
+**Output Status**: [ ] 🔴 Not Started [ ] 🟡 In Progress [ ] 🟢 Complete
