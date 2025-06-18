@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 17: Class-Based Student Management
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Constructors, destructors, object lifecycle
 
 ## 📚 Core Concepts

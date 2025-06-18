@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 28: Advanced C++ Application
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Complete application using all advanced C++ features
 
 ## 📚 Core Concepts

@@ -1,6 +1,6 @@
 # Day 16: Object-Oriented Calculator
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Classes, objects, methods, encapsulation  
 **Time Spent**: [Fill when completed]  

@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 20: Runtime Polymorphism Demo
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Virtual functions, polymorphism, dynamic binding
 
 ## 📚 Core Concepts

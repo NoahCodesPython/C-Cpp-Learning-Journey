@@ -1,6 +1,6 @@
 # Day 25: Exception Handling System
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Exception handling, try-catch, custom exceptions  
 **Time Spent**: [Fill when completed]  

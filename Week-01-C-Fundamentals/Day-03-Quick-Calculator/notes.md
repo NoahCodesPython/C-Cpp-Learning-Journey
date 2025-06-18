@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 3: Multi-Operation Calculator
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Operators, expressions, mathematical operations
 
 ## 📚 Core Concepts

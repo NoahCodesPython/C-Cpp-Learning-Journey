@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 15: C to C++ Migration Tool
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: C++ basics, iostream, namespace
 
 ## 📚 Core Concepts

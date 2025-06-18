@@ -1,6 +1,6 @@
 # Day 2: Student Information System
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Variables, data types, scanf, user input  
 **Time Spent**: [Fill when completed]  

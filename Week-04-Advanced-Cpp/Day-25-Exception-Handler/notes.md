@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 25: Exception Handling System
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Exception handling, try-catch, custom exceptions
 
 ## 📚 Core Concepts

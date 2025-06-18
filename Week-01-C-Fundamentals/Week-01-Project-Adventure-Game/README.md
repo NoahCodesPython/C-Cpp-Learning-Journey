@@ -1,7 +1,7 @@
 # Week 1 Major Project: Text-based Adventure Game System
 
 **Project Week**: Week 1  
-**Started**: 2025-06-17  
+**Started**: 2025-06-18  
 **Student**: NoahCodesPython  
 **College**: S.A. Engineering College, Chennai
 

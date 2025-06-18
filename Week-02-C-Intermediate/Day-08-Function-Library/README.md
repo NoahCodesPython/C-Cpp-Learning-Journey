@@ -1,6 +1,6 @@
 # Day 8: Custom Function Library
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Functions, modularity, parameters and return  
 **Time Spent**: [Fill when completed]  

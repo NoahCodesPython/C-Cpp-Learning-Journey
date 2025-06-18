@@ -1,6 +1,6 @@
 # Day 26: Advanced File Stream Operations
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: File streams, fstream, binary files  
 **Time Spent**: [Fill when completed]  

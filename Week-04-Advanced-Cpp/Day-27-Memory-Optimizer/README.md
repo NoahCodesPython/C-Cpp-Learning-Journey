@@ -1,6 +1,6 @@
 # Day 27: Smart Pointer Memory Management
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Smart pointers, RAII, modern C++ memory  
 **Time Spent**: [Fill when completed]  

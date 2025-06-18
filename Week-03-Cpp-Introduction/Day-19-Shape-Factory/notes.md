@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 19: Inheritance-Based Shape System
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Inheritance, base classes, derived classes
 
 ## 📚 Core Concepts

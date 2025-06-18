@@ -1,6 +1,6 @@
 # Day 10: Pointer Operations Demo
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Pointers, memory addresses, pointer arithmetic  
 **Time Spent**: [Fill when completed]  

@@ -4,7 +4,7 @@ Day 13: Automated File Organization
 =======================================================
 Student: NoahCodesPython
 College: S.A. Engineering College, Chennai
-Date: 2025-06-17
+Date: 2025-06-18
 Concepts: File operations, FILE pointers, file manipulation
 GeeksforGeeks: https://www.geeksforgeeks.org/file-handling-c/
 Exercism: Roman Numerals
@@ -17,7 +17,7 @@ int main() {
     printf("=== Day %d: %s ===\n", 13, "Automated File Organization");
     printf("Student: NoahCodesPython\n");
     printf("College: S.A. Engineering College, Chennai\n");
-    printf("Date: 2025-06-17\n");
+    printf("Date: 2025-06-18\n");
     printf("Status: Ready to implement!\n");
     
     // TODO: Implement Automated File Organization here

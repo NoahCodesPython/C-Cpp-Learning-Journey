@@ -1,6 +1,6 @@
 # Day 15: C to C++ Migration Tool
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: C++ basics, iostream, namespace  
 **Time Spent**: [Fill when completed]  

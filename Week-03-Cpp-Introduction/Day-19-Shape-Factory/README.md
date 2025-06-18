@@ -1,6 +1,6 @@
 # Day 19: Inheritance-Based Shape System
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Inheritance, base classes, derived classes  
 **Time Spent**: [Fill when completed]  

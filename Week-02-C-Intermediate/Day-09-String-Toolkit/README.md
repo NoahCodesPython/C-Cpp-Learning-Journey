@@ -1,6 +1,6 @@
 # Day 9: Advanced String Manipulation
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Strings, string.h library, character arrays  
 **Time Spent**: [Fill when completed]  

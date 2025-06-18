@@ -1,6 +1,6 @@
 # Day 18: OOP Library System
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Access specifiers, data hiding, encapsulation  
 **Time Spent**: [Fill when completed]  

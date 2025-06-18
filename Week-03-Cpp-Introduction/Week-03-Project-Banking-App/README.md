@@ -1,7 +1,7 @@
 # Week 3 Major Project: Object-Oriented Banking Application
 
 **Project Week**: Week 3  
-**Started**: 2025-06-17  
+**Started**: 2025-06-18  
 **Student**: NoahCodesPython  
 **College**: S.A. Engineering College, Chennai
 

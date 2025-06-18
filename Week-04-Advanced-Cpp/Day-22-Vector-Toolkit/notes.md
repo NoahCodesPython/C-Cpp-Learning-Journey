@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 22: STL Vector Operations
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: STL containers, vector operations, iterators
 
 ## 📚 Core Concepts

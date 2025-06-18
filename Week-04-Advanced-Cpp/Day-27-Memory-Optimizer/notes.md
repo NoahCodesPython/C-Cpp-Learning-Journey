@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 27: Smart Pointer Memory Management
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Smart pointers, RAII, modern C++ memory
 
 ## 📚 Core Concepts

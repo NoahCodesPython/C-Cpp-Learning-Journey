@@ -1,6 +1,6 @@
 # Day 22: STL Vector Operations
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: STL containers, vector operations, iterators  
 **Time Spent**: [Fill when completed]  

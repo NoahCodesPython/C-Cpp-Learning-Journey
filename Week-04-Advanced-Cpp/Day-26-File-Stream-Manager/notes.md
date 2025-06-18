@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 26: Advanced File Stream Operations
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: File streams, fstream, binary files
 
 ## 📚 Core Concepts

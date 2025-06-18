@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 13: Automated File Organization
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: File operations, FILE pointers, file manipulation
 
 ## 📚 Core Concepts

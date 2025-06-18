@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 6: Statistical Marks Analysis Tool
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Arrays, functions, statistical calculations
 
 ## 📚 Core Concepts

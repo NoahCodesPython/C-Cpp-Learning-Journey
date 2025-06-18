@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 10: Pointer Operations Demo
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Pointers, memory addresses, pointer arithmetic
 
 ## 📚 Core Concepts

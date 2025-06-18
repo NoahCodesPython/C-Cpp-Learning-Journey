@@ -1,6 +1,6 @@
 # Day 20: Runtime Polymorphism Demo
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Virtual functions, polymorphism, dynamic binding  
 **Time Spent**: [Fill when completed]  

@@ -1,7 +1,7 @@
 # Week 1 Project: Text-based Adventure Game System - Completion Status
 
 ## 📅 Project Timeline
-- **Started**: 2025-06-17
+- **Started**: 2025-06-18
 - **Completed**: [Fill when finished]
 - **Total Hours**: [Track total time]
 

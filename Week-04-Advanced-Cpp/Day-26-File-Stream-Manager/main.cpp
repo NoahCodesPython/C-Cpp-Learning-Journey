@@ -4,7 +4,7 @@ Day 26: Advanced File Stream Operations
 =======================================================
 Student: NoahCodesPython
 College: S.A. Engineering College, Chennai
-Date: 2025-06-17
+Date: 2025-06-18
 Concepts: File streams, fstream, binary files
 GeeksforGeeks: https://www.geeksforgeeks.org/file-handling-through-c-classes/
 Exercism: Allergies
@@ -18,7 +18,7 @@ int main() {
     cout << "=== Day 26: Advanced File Stream Operations ===" << endl;
     cout << "Student: NoahCodesPython" << endl;
     cout << "College: S.A. Engineering College, Chennai" << endl;
-    cout << "Date: 2025-06-17" << endl;
+    cout << "Date: 2025-06-18" << endl;
     cout << "Status: Ready to implement!" << endl;
     
     // TODO: Implement Advanced File Stream Operations here

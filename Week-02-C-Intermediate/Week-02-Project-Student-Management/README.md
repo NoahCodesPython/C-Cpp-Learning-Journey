@@ -1,7 +1,7 @@
 # Week 2 Major Project: Comprehensive Student Management System
 
 **Project Week**: Week 2  
-**Started**: 2025-06-17  
+**Started**: 2025-06-18  
 **Student**: NoahCodesPython  
 **College**: S.A. Engineering College, Chennai
 

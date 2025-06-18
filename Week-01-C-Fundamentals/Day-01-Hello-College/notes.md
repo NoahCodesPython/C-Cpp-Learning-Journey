@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 1: Hello College Introduction
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Basic C syntax, printf, program structure
 
 ## 📚 Core Concepts

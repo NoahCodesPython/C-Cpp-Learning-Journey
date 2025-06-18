@@ -1,6 +1,6 @@
 # Day 1: Hello College Introduction
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Basic C syntax, printf, program structure  
 **Time Spent**: [Fill when completed]  

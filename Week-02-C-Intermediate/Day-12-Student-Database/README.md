@@ -1,6 +1,6 @@
 # Day 12: File-Based Student Database
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: $concepts  
 **Time Spent**: [Fill when completed]  

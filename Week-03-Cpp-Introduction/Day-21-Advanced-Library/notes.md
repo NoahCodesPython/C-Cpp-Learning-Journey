@@ -1,6 +1,6 @@
 # Personal Learning Notes - Day 21: Advanced OOP Library
 
-**Date**: 2025-06-17 | **Student**: NoahCodesPython  
+**Date**: 2025-06-18 | **Student**: NoahCodesPython  
 **Focus**: Advanced OOP, operator overloading
 
 ## 📚 Core Concepts

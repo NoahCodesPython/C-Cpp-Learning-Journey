@@ -1,6 +1,6 @@
 # Day 6: Statistical Marks Analysis Tool
 
-**Date**: 2025-06-17 (Started)  
+**Date**: 2025-06-18 (Started)  
 **Completed**: [Fill when completed]  
 **Concepts**: Arrays, functions, statistical calculations  
 **Time Spent**: [Fill when completed]  
